@@ -12,10 +12,10 @@ site_theme               : "default"
 title                    : "Shafiq Ur Rehman - Computational Materials Scientist"
 title_separator          : "-"
 name                     : &name "Shafiq Ur Rehman"
-description              : &description "I am a materials scientist"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+description              : &description "I am a materials scientist, working on firts principles simulations and machine learning predictions. i am suing basic tools to stuyd materials properties"
+url                      : https://shafiq-ur-rehman-source.github.io/Shafiq_Physicist/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://shafiq-ur-rehman-source.github.io/Shafiq_Physicist/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,17 +23,17 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr.Shafiq Ur Rehman"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am phD in Physics from the USTC, My major is computing physics and materials predictions"
+  location         : "Shenzhen, China"
+  employer         : "SUSTECH"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shafiqphy123@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=OKauAU0AAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -42,7 +42,7 @@ author:
   scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
+  bitbucket        : Shafiq Ur Rehman # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
   github           : "academicpages"
