@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shafiq Ur Rehman - Computational Materials Scientist"
+title                    : "Computational Materials Scientist"
 title_separator          : "-"
 name                     : &name "Shafiq Ur Rehman"
-description              : &description "I am a materials scientist, working on firts principles simulations and machine learning predictions. i am suing basic tools to stuyd materials properties"
+description              : &description "I am studying material properties with first principles calculations, ab-initio/classical molecular dynamic simulations and machine learning. I am developing codes which work in materials designed and simulation"
 url                      : https://shafiq-ur-rehman-source.github.io/Shafiq_Physicist/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://shafiq-ur-rehman-source.github.io/Shafiq_Physicist/"
@@ -22,12 +22,12 @@ repository               : "https://shafiq-ur-rehman-source.github.io/Shafiq_Phy
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "‪C:\Users\sypot\Desktop\Profile.png.jpg"
   name             : "Dr.Shafiq Ur Rehman"
   pronouns         : # example: "she/her"  
-  bio              : "I am phD in Physics from the USTC, My major is computing physics and materials predictions"
-  location         : "Shenzhen, China"
-  employer         : "SUSTECH"
+  bio              : "computataional materials designer and developer"
+  location         : "Shenzhen, Guangdong, China"
+  employer         : "University of electronic Science and Technology of China"
   uri              : # URL
   email            : "shafiqphy123@gmail.com" 
 
@@ -42,7 +42,7 @@ author:
   scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : Shafiq Ur Rehman # Username - Update with your username on the site
+  bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
   github           : "academicpages"
@@ -80,10 +80,13 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Shafiq Ur Rehman, J. W. Wang, G. Wu, J. Xian, and Nasir Mahmood Unravelling the photocatalytic potential of transition metal sulfide and selenide monolayers for overall water splitting and photo-corrosion inhibition J. Mater. Chem. A, 12 (2024),6693–670.  
+(IF:11.9; JCR=1)' 
+    title: 'Shafiq Ur Rehman, Q. Sun, J. Wang, W. Lv, A. Azim, Y. Liu, J. Xian and N. Mahmood, In-plane heterostructures of transition metal dichalcogenide monolayers with enhanced charge separation and effective overall water splitting, Int J Hydrogen Energy, 80 (2024),280-288.
+(IF: 8.1; JCR=1)'     
   conferences:
-    title: 'Conference Papers'
-
+    title: 'Shafiq Ur Rehman, Size Dependent Structural and Electronic Properties of CdSe/ZnS and ZnS/CdSe Core Shell Nanowires, 20th International VACUUM Congress (IVC-20) Busan, Korea, Aug. 21-26, 2016.'
+    title: 'Shafiq Ur Rehman, Indirect to Direct Band Gap Transition in ZnS/Si and Si/ZnS Core Shell Nanowires, The 1st USTC-FHI workshop on Frontiers of Advances Electronic Structure Methods, Hefei, China, Jun 14-18, 2016..'
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
