@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Computational Materials Scientist"
+title                    : "computational materials scientist"
 title_separator          : "-"
 name                     : &name "Shafiq Ur Rehman"
-description              : &description "I am studying material properties with first principles calculations, ab-initio/classical molecular dynamic simulations and machine learning. I am developing codes which work in materials designed and simulation"
+description              : &description "material property predictions with first principles calculations, ab-initio/classical molecular dynamic simulations and machine learning. I am developing codes which work in materials designed and simulation"
 url                      : https://shafiq-ur-rehman-source.github.io/Shafiq_Physicist/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://shafiq-ur-rehman-source.github.io/Shafiq_Physicist/"
